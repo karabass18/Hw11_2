@@ -9,7 +9,7 @@ import static com.codeborne.selenide.Condition.text;
 import static com.codeborne.selenide.Selenide.*;
 
 
-public class GithubSolutionTest extends StartSet {
+public class SelecorsTests extends StartSet {
 
     @Test
     @DisplayName("Проверка раздела Solution/Enterprise на Github")
